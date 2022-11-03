@@ -1,0 +1,211 @@
+.zagl{
+    color: darkred;
+    font-size: 55px;
+    font-family: SEGOE SCRIPT;
+    text-align: center;
+}
+.bmw {
+   display: inline-block;
+   margin-left: 0px;
+    font-size: 40px;
+   color: cornflowerblue;
+    font-family: Comic Sans Ms;
+}
+#opbmw{
+     font-family: Comic Sans Ms;
+    font-size: 30px;
+    width: 600px; /*ширина текста*/
+    color: chocolate;
+
+
+}
+.outline {
+    width: 1100px; /* Ширина слоя */
+    height: auto;
+    margin: auto; /* Значение отступов */
+    border: 1px solid black;
+    padding: 0 1px;
+    background: url("D:\\программы\\auto\\background\\carb.jpg"); /* Цвет фона */
+    background-size: cover;
+   }
+.marki{
+    font-size: 40px;
+    text-decoration: none;
+    color: cornflowerblue;
+}
+#m5{
+    font-size: 20px;
+    width: 900px; /*ширина текста*/
+    color: cornflowerblue;
+    font-family: Comic Sans Ms;
+}
+#x5m{
+    font-size: 20px;
+    width: 900px; /*ширина текста*/
+    color: azure;
+    font-family: Comic Sans Ms;
+}
+.mb-z {
+    display: inline-block;
+    margin-left: 0px;
+    font-size: 40px;
+    color: crimson;
+    font-family: Comic Sans Ms;
+}
+#opmb{
+     font-family: Comic Sans Ms;
+    font-size: 30px;
+    width: 600px; /*ширина текста*/
+    color: crimson;
+}
+#aclass{
+    font-size: 20px;
+    width: 900px; /*ширина текста*/
+    color: linen;
+    font-family: Comic Sans Ms;
+}
+.audi{
+    font-family: Comic Sans Ms;
+    font-size: 30px;
+    width: 600px; /*ширина текста*/
+    color: darkslateblue;
+}
+#ars6{
+    font-size: 20px;
+    width: 900px; /*ширина текста*/
+    color: white;
+    font-family: Comic Sans Ms;
+}
+#ars7{
+    font-size: 20px;
+    width: 900px; /*ширина текста*/
+    color: white;
+    font-family: Comic Sans Ms;
+}
+#audi {
+    font-family: Comic Sans Ms;
+    font-size: 30px;
+    width: 900px; /*ширина текста*/
+    color: darkslateblue;
+}
+#gtr {
+    font-size: 20px;
+    width: 900px; /*ширина текста*/
+    color: darkred;
+    font-family: Comic Sans Ms;
+}
+#nissan {
+    font-family: Comic Sans Ms;
+    font-size: 30px;
+    width: 900px; /*ширина текста*/
+    color: darkred;
+}
+.nissan{
+  font-family: Comic Sans Ms;
+    font-size: 30px;
+    width: 600px; /*ширина текста*/
+    color: darkred;
+}
+#ex {
+       font-size: 20px;
+    width: 900px; /*ширина текста*/
+    color: white;
+    font-family: Comic Sans Ms;
+}
+.infin{
+  font-family: Comic Sans Ms;
+    font-size: 30px;
+    width: 600px; /*ширина текста*/
+    color: white;
+}
+#infin {
+    font-family: Comic Sans Ms;
+    font-size: 30px;
+    width: 900px; /*ширина текста*/
+    color: white;
+}
+#toyota {
+    font-size: 20px;
+    width: 900px; /*ширина текста*/
+    color: darkred;
+    font-family: Comic Sans Ms;
+}
+.toyota {
+    font-family: Comic Sans Ms;
+    font-size: 30px;
+    width: 600px; /*ширина текста*/
+    color: darkred;
+}
+#mzd{
+   font-size: 20px;
+    width: 900px; /*ширина текста*/
+    color: white;
+    font-family: Comic Sans Ms;
+}
+.mzd{
+    font-family: Comic Sans Ms;
+    font-size: 30px;
+    width: 600px; /*ширина текста*/
+    color: white;
+}
+.subaru{
+     font-family: Comic Sans Ms;
+    font-size: 30px;
+    width: 600px; /*ширина текста*/
+    color: white;
+}
+.dodge{
+    display: inline-block;
+   margin-left: 0px;
+    font-size: 40px;
+   color: darkred;
+    font-family: Comic Sans Ms;
+}
+.dodgeop{
+    font-family: Comic Sans Ms;
+    font-size: 30px;
+    width: 600px; /*ширина текста*/
+    color: darkred;
+}
+.drom{
+    font-family: "MV Boli";
+    color: white;
+    font-size: 25px;
+    position: relative;
+    bottom: 15px;
+}
+.butdrom{
+    font-family: Comic Sans Ms;
+    border-radius: 4px;
+      background-color: darkred;
+      border: none;
+      color: white;
+      text-align: center;
+      font-size: 25px;
+      padding: 20px;
+      width: 125px;
+      height: 50px;
+      transition: all 1s;
+      cursor: pointer;
+      margin: 0px;
+
+
+}
+.butdrom span{
+    cursor: pointer;
+  display: block;
+  position: relative;
+    bottom: 15px;
+  transition: 0.5s;
+}
+.butdrom:hover span{
+   padding-right: 35px;
+}
+.butdrom:hover span:after{
+    opacity: 1;
+  right: 0;
+}
+.ssldrom{
+    text-decoration: none;
+    color: white;
+}
